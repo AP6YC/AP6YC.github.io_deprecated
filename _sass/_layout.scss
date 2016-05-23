@@ -2,10 +2,10 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
+    border-top: 5px solid $grey-color-light;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-
+    background-image: url("http://www.picsources.com/wp-content/uploads/2015/10/banner-816.jpg");
     // Positioning context for the mobile navigation icon
     position: relative;
 }
